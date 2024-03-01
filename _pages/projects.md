@@ -2,7 +2,7 @@
 layout: page
 title: team
 permalink: /team/
-description: The team that makes us click.
+description: Those that makes us click.
 nav: true
 nav_order: 4
 display_categories: []
